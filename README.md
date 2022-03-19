@@ -1,4 +1,4 @@
-[01-OFF-CANVAS-MENU](https://kwl-off-canvas-menu.netlify.app/) 
+[01-OFF-CANVAS-MENU] 
 ---
 ### Important stuff in project
 
@@ -7,7 +7,7 @@
 
 ---
 
-[02-MODAL](https://kwl-modal.netlify.app/) 
+[02-MODAL] 
 ---
 ### Important stuff in project
 
@@ -16,7 +16,7 @@
 
 ---
 
-[03-TABBY](https://kwl-tabby.netlify.app/) 
+[03-TABBY] 
 ---
 ### Important stuff in project
 
@@ -25,7 +25,7 @@
 
 ---
 
-[04-ACCORDION](https://kwl-accordions.netlify.app/) 
+[04-ACCORDION] 
 ---
 ### Important stuff in project
 
@@ -34,67 +34,67 @@
 
 ---
 
-[05-CAROUSEL](https://kwl-carousel.netlify.app/) 
+[05-CAROUSEL] 
 ---
 
 ---
 
-[06-CALCULATOR](https://kwl-calculator.netlify.app/) 
+[06-CALCULATOR] 
 ---
 
 ---
 
-[07-POPOVERS](https://kwl-popovers.netlify.app/) 
+[07-POPOVERS] 
 ---
 
 ---
 
-[08-TODOLIST](https://kwl-todo-list.netlify.app/) 
+[08-TODOLIST] 
 ---
 
 ---
 
-[09-TYPEHEAD](https://kwl-typehead.netlify.app/) 
+[09-TYPEHEAD] 
 ---
 
 ---
 
-[10-DATEPICKER](https://kwl-datepicker.netlify.app/) 
+[10-DATEPICKER] 
 ---
 
 ---
 
-[11-COUNTDOWN-TIMER](https://kwl-countdown-timer.netlify.app/) 
+[11-COUNTDOWN-TIMER] 
 ---
 
 ---
 
-[12-GOOGLE-MAP](https://kwl-google-map.netlify.app/) 
+[12-GOOGLE-MAP] 
 ---
 
 ---
 
-[13-DOTA-HEROES](https://kwl-dota-heroes.netlify.app/) 
+[13-DOTA-HEROES] 
 ---
 
 ---
 
-[15-SLIDE-REVEAL](https://kwl-slide-reveal.netlify.app/) 
+[15-SLIDE-REVEAL] 
 ---
 
 ---
 
-[16-INFINITE-SCROLL](https://kwl-infinite-scroll.netlify.app/) 
+[16-INFINITE-SCROLL] 
 ---
 
 ---
 
-[17-PACMAN](https://kwl-pacman.netlify.app/) 
+[17-PACMAN] 
 ---
 
 ---
 
-[18-DRAG-AND-DROP](https://kwl-drag-and-drop.netlify.app/) 
+[18-DRAG-AND-DROP] 
 ---
 
 
